@@ -34,7 +34,7 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 
 
 
-## Our products
+## Personal Projects
 
 Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 -------------- | ----------------- | -------------------- | ---------------------
@@ -45,39 +45,11 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 
 [View All Products](https://www.creative-tim.com/templates)
 
-## Our courses
+## Latest learnings
+Exploring the world of Web 3.0 and decentralized applications (DApps).
+Mastering Kubernetes for efficient container orchestration.
+Building performance-optimized applications with Next.js.
 
-**Text courses:**
-
-- [How to quickstart and launch your website using Jekyll?](https://www.creative-tim.com/blog/webdesign/quickstart-launch-website-using-jekyll)
-- [How to create Scrolling Transformations for your React App?](https://www.creative-tim.com/blog/webdesign/create-scrolling-transformations-react-app)
-- [How to create a single-page application using React?](https://www.creative-tim.com/blog/react/create-single-page-application-using-react)
-
-**Video courses:**
-
-|[![How to use React with Firebase and Redux: Introduction](https://img.youtube.com/vi/BMPHfnAA9iI/mqdefault.jpg)](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")|[![ReactJS and Redux Tutorial with real-life examples](https://img.youtube.com/vi/raKV5Rb8oOM/mqdefault.jpg)](https://www.creative-tim.com/courses "ReactJS and Redux Tutorial with real-life examples")|[![Responsive Admin Template using Light Bootstrap Dashboard](https://img.youtube.com/vi/vt5hemH8I9w/mqdefault.jpg)](https://www.creative-tim.com/courses "Responsive Admin Template using Light Bootstrap Dashboard")
-|:--:|:--:|:--:|
-|How to use React with Firebase and Redux: Introduction|ReactJS and Redux Tutorial with real-life examples|Responsive Admin Template using Light Bootstrap Dashboard|
-
-## Our latest posts
-
-1. **[🔥 Creative Tim Courses](https://www.creative-tim.com/blog/creative-tim/new-learning-resources-web-designers/)** <br> *New Learning Platform for Web Designers & Devs*
-2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*
-3. **[🙏 Docker and Django](https://www.creative-tim.com/blog/django-template/docker-and-django-how-to-start-fast/)** <br> *How to start fast*
-4. **[⭐️ Technology](https://www.creative-tim.com/blog/ux/importance-user-experience-expert/)** <br> *The Importance of a User Experience Expert in Every Company*
-5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates*
-
-
-## Useful Links
-
-- [Premium Products](https://www.creative-tim.com/templates/premium)
-- [Freebies](https://www.creative-tim.com/templates/free) from Creative Tim
-- [More products](https://www.creative-tim.com/templates) from Creative Tim
-- [Bundles](https://www.creative-tim.com/bundles)
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Material Design](https://www.creative-tim.com/design-system/material)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-- [Get Discount](https://www.creative-tim.com/coupon)
 
 ## Contact us
 
