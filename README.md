@@ -2,18 +2,21 @@
 
 ## About Me
 
-<small> My name is Raghav Mattad, Currently working as a Fullstack developer in Protocolzone Pvt. Ltd. </small>
-<small> I have an experience of 2 years in crafting web-application touching both backend and frontend side of it. 
-I have done my graduation in B.tech from DA-IICT Gandhinagar ( 2022 ).</small>
+<small> My name is Raghav Mattad, Currently working as a Fullstack developer in Protocolzone Pvt. Ltd.
+I have an experience of 2 years in crafting web application touching both backend and frontend side of it. </small>
+</br>
+I have done my graduation in B.tech from DA-IICT Gandhinagar.</small>
 
 ## Our expertise
 
-- Create UI Frameworks
-  -  We have created the tools that will help you in your next project. From plugins to complex kits, we've got you covered in all areas regarding front-end development.
-- Share Freebies
-  -  Everything that we used to create our products can be downloaded for free under MIT License. People have already trusted and used them in thousands of sites.
-- Power Hackathons
-  -  We've sponsored many hackathons around the world with the tools that they need to make awesome web applications. Our UI tools go hand in hand with startups.
+Frontend Development
+Crafting intuitive user interfaces using modern frameworks like React, Vue.js, and Angular. I ensure a seamless user experience with responsive design and clean code.
+
+Backend Development
+Building scalable and efficient server-side applications using Node.js and NestJS. My backend expertise includes RESTful API design, database management, and security best practices.
+
+DevOps & Cloud
+Implementing CI/CD pipelines, managing cloud infrastructure on AWS and Azure, and containerizing applications using Docker and Kubernetes
 
 ## Our technologies
 
