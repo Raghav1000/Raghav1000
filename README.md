@@ -39,8 +39,6 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 
 ## Personal Projects
 
-<div align="center">
-
 <table>
   <tr>
     <td>
@@ -70,7 +68,6 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
   </tr>
 </table>
 
-</div>
 
 
 ## Latest learnings
