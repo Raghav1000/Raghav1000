@@ -39,16 +39,18 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 
 ## Personal Projects
 
-| Project | Link and Code |
-|---------|-------------|
-| **Material Kit 2** | <img src="https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280" alt="Material Kit 2" width="200"/> <br> [Code](https://www.creative-tim.com/product/material-kit) | [Preview](https://demos.creative-tim.com/material-kit/index.html) |
-| **Soft UI Dashboard** | <img src="https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816" alt="Soft UI Dashboard" width="200"/> <br> [Code](https://www.creative-tim.com/product/soft-ui-dashboard) | [Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) |
-| **Soft UI React Native** | <img src="https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346" alt="Soft UI React Native" width="200"/> <br> [Code](https://www.creative-tim.com/product/soft-ui-react-native) | [Preview](https://demos.creative-tim.com/soft-ui-react-native/) |
+| **Project** | **Code** | **Preview** |
+|-------------|----------|-------------|
+| **Material Kit 2** | [Code](https://www.creative-tim.com/product/material-kit) | [Preview](https://demos.creative-tim.com/material-kit/index.html) |
+| <img src="https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280" alt="Material Kit 2" width="150"/> |  |  |
+| **Soft UI Dashboard** | [Code](https://www.creative-tim.com/product/soft-ui-dashboard) | [Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) |
+| <img src="https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816" alt="Soft UI Dashboard" width="150"/> |  |  |
+| **Soft UI React Native** | [Code](https://www.creative-tim.com/product/soft-ui-react-native) | [Preview](https://demos.creative-tim.com/soft-ui-react-native/) |
+| <img src="https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346" alt="Soft UI React Native" width="150"/> |  |  |
 
 **Note:** 
 - Adjust the width of the images as needed.
 - The links are displayed without default blue color and underline.
-
 
 
 
