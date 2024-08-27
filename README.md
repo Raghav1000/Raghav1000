@@ -57,8 +57,8 @@ Building performance-optimized applications with Next.js. <br>
 
 ## Contact
 
-[![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/creativetimofficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/creative-tim-1b54778b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=portfolio&logoColor=orange)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Github](https://img.shields.io/badge/Github-100000?style=flat&logo=github&logoColor=white)](https://github.com/creativetimofficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/creative-tim-1b54778b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
