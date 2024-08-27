@@ -40,11 +40,16 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 
 ## Personal Projects
 
-Material Kit 2 | Soft UI Dashboard | Soft UI React Native
--------------- | ----------------- | --------------------
-👉 [Code](https://www.creative-tim.com/product/material-kit) | 👉 [Code](https://www.creative-tim.com/product/soft-ui-dashboard) | 👉 [Code](https://www.creative-tim.com/product/soft-ui-react-native)
-✅ [Live Preview](https://demos.creative-tim.com/material-kit/index.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/)
-![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280) | ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346)
+<div align="center">
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| ![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280) | **Material Kit 2** <br> A beautiful UI kit for your next project. | 👉 [Code](https://www.creative-tim.com/product/material-kit) <br> ✅ [Live Preview](https://demos.creative-tim.com/material-kit/index.html) |
+| ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | **Soft UI Dashboard** <br> An elegant dashboard for building interactive web applications. | 👉 [Code](https://www.creative-tim.com/product/soft-ui-dashboard) <br> ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) |
+| ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346) | **Soft UI React Native** <br> A comprehensive kit for React Native applications. | 👉 [Code](https://www.creative-tim.com/product/soft-ui-react-native) <br> ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/) |
+
+</div>
+
 
 ## Latest learnings
 Exploring the world of Web 3.0 and decentralized applications (DApps). <br>
