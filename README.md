@@ -42,13 +42,14 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 
 <div align="center">
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| ![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280) | **Material Kit 2** <br> A beautiful UI kit for your next project. | 👉 [Code](https://www.creative-tim.com/product/material-kit) <br> ✅ [Live Preview](https://demos.creative-tim.com/material-kit/index.html) |
-| ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | **Soft UI Dashboard** <br> An elegant dashboard for building interactive web applications. | 👉 [Code](https://www.creative-tim.com/product/soft-ui-dashboard) <br> ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) |
-| ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346) | **Soft UI React Native** <br> A comprehensive kit for React Native applications. | 👉 [Code](https://www.creative-tim.com/product/soft-ui-react-native) <br> ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/) |
+| Project | Code | Live Preview |
+|---------|------|--------------|
+| ![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280 =100x100) | [Code](https://www.creative-tim.com/product/material-kit) | [Live Preview](https://demos.creative-tim.com/material-kit/index.html) |
+| ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816 =100x100) | [Code](https://www.creative-tim.com/product/soft-ui-dashboard) | [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) |
+| ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346 =100x100) | [Code](https://www.creative-tim.com/product/soft-ui-react-native) | [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/) |
 
 </div>
+
 
 
 ## Latest learnings
