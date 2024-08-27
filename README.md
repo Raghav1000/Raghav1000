@@ -38,10 +38,6 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 </p>
 
 
-
-
-## Personal Projects
-
 ## Personal Projects
 
 Material Kit 2 | Soft UI Dashboard | Soft UI React Native
