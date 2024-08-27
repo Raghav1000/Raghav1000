@@ -57,7 +57,6 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 </div>
 
 
-
 ## Latest learnings
 Exploring the world of Web 3.0 and decentralized applications (DApps). <br>
 Mastering Kubernetes for efficient container orchestration. <br>
