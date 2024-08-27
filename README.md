@@ -1,11 +1,25 @@
 <h1 align="center">Hi 👋, I'm Raghav Mattad</h1>
-<p align="center">
-  [![Github](https://img.shields.io/badge/Github-100000?style=flat&logo=github&logoColor=white)](https://github.com/creativetimofficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/creative-tim-1b54778b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Github-100000?style=flat&logo=github&logoColor=white" alt="Github" />
+  <a href="https://twitter.com/CreativeTim">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/creative-tim-1b54778b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=portfolio&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
+
 
 ## About Me
 
