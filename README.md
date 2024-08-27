@@ -43,14 +43,30 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 
 <table>
   <tr>
-    <td><a href="https://www.creative-tim.com/product/material-kit" target="_blank"><img src="https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280" alt="Material Kit 2" width="100" height="100" /></a></td>
-    <td><a href="https://www.creative-tim.com/product/soft-ui-dashboard" target="_blank"><img src="https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816" alt="Soft UI Dashboard" width="100" height="100" /></a></td>
-    <td><a href="https://www.creative-tim.com/product/soft-ui-react-native" target="_blank"><img src="https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346" alt="Soft UI React Native" width="100" height="100" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://demos.creative-tim.com/material-kit/index.html" target="_blank">Live Preview</a></td>
-    <td><a href="https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html" target="_blank">Live Preview</a></td>
-    <td><a href="https://demos.creative-tim.com/soft-ui-react-native/" target="_blank">Live Preview</a></td>
+    <td>
+      <a href="https://www.creative-tim.com/product/material-kit" target="_blank">
+        <img src="https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280" alt="Material Kit 2" width="150" height="150" />
+      </a>
+      <br />
+      <a href="https://www.creative-tim.com/product/material-kit" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 14px; text-decoration: none; color: white; background-color: #007bff; border-radius: 5px;">Code</a>
+      <a href="https://demos.creative-tim.com/material-kit/index.html" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 14px; text-decoration: none; color: white; background-color: #28a745; border-radius: 5px;">Preview</a>
+    </td>
+    <td>
+      <a href="https://www.creative-tim.com/product/soft-ui-dashboard" target="_blank">
+        <img src="https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816" alt="Soft UI Dashboard" width="150" height="150" />
+      </a>
+      <br />
+      <a href="https://www.creative-tim.com/product/soft-ui-dashboard" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 14px; text-decoration: none; color: white; background-color: #007bff; border-radius: 5px;">Code</a>
+      <a href="https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 14px; text-decoration: none; color: white; background-color: #28a745; border-radius: 5px;">Preview</a>
+    </td>
+    <td>
+      <a href="https://www.creative-tim.com/product/soft-ui-react-native" target="_blank">
+        <img src="https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346" alt="Soft UI React Native" width="150" height="150" />
+      </a>
+      <br />
+      <a href="https://www.creative-tim.com/product/soft-ui-react-native" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 14px; text-decoration: none; color: white; background-color: #007bff; border-radius: 5px;">Code</a>
+      <a href="https://demos.creative-tim.com/soft-ui-react-native/" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; font-size: 14px; text-decoration: none; color: white; background-color: #28a745; border-radius: 5px;">Preview</a>
+    </td>
   </tr>
 </table>
 
