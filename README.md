@@ -39,20 +39,10 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 
 ## Personal Projects
 
-| **Project** | **Code** | **Preview** |
-|-------------|----------|-------------|
-| **Material Kit 2** | [Code](https://www.creative-tim.com/product/material-kit) | [Preview](https://demos.creative-tim.com/material-kit/index.html) |
-| <img src="https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280" alt="Material Kit 2" width="150"/> |  |  |
-| **Soft UI Dashboard** | [Code](https://www.creative-tim.com/product/soft-ui-dashboard) | [Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) |
-| <img src="https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816" alt="Soft UI Dashboard" width="150"/> |  |  |
-| **Soft UI React Native** | [Code](https://www.creative-tim.com/product/soft-ui-react-native) | [Preview](https://demos.creative-tim.com/soft-ui-react-native/) |
-| <img src="https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346" alt="Soft UI React Native" width="150"/> |  |  |
-
-**Note:** 
-- Adjust the width of the images as needed.
-- The links are displayed without default blue color and underline.
-
-
+| **Material Kit 2** | **Soft UI Dashboard** | **Soft UI React Native** |
+|--------------------|-----------------------|--------------------------|
+| ![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280) | ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346) |
+| [Code](https://www.creative-tim.com/product/material-kit) [Preview](https://demos.creative-tim.com/material-kit/index.html) | [Code](https://www.creative-tim.com/product/soft-ui-dashboard) [Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | [Code](https://www.creative-tim.com/product/soft-ui-react-native) [Preview](https://demos.creative-tim.com/soft-ui-react-native/) |
 
 
 
