@@ -7,15 +7,15 @@ I have an experience of 2 years in crafting web application touching both backen
 </br>
 I have done my graduation in B.tech from DA-IICT Gandhinagar.</small>
 
-## Our expertise
+## My expertise
 
-Frontend Development
+<b>Frontend Development</b>
 Crafting intuitive user interfaces using modern frameworks like React, Vue.js, and Angular. I ensure a seamless user experience with responsive design and clean code.
 
-Backend Development
+<b>Backend Development</b>
 Building scalable and efficient server-side applications using Node.js and NestJS. My backend expertise includes RESTful API design, database management, and security best practices.
 
-DevOps & Cloud
+<b>DevOps & Cloud</b>
 Implementing CI/CD pipelines, managing cloud infrastructure on AWS and Azure, and containerizing applications using Docker and Kubernetes
 
 ## Our technologies
