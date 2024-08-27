@@ -43,12 +43,11 @@ Material Kit 2 | Soft UI Dashboard | Soft UI React Native | Tailwind Starter Kit
 ✅ [Live Preview](https://demos.creative-tim.com/material-kit/index.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) | ✅ [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/) | ✅ [Live Preview](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 ![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280) | ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346)| ![Tailwind Starter Kit](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/creative-tim/opt_tsp_tailwindcss_thumbnail.jpg)
 
-[View All Products](https://www.creative-tim.com/templates)
 
 ## Latest learnings
-Exploring the world of Web 3.0 and decentralized applications (DApps).
-Mastering Kubernetes for efficient container orchestration.
-Building performance-optimized applications with Next.js.
+Exploring the world of Web 3.0 and decentralized applications (DApps). <br>
+Mastering Kubernetes for efficient container orchestration. <br>
+Building performance-optimized applications with Next.js. <br>
 
 
 ## Contact us
