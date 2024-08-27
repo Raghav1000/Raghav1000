@@ -41,15 +41,20 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 
 <div align="center">
 
-| Project              | Code                                                       | Live Preview                                               |
-|----------------------|------------------------------------------------------------|------------------------------------------------------------|
-| ![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280 =100x100) | [Code](https://www.creative-tim.com/product/material-kit) | [Live Preview](https://demos.creative-tim.com/material-kit/index.html) |
-| ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816 =100x100) | [Code](https://www.creative-tim.com/product/soft-ui-dashboard) | [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html) |
-| ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346 =100x100) | [Code](https://www.creative-tim.com/product/soft-ui-react-native) | [Live Preview](https://demos.creative-tim.com/soft-ui-react-native/) |
+<table>
+  <tr>
+    <td><a href="https://www.creative-tim.com/product/material-kit" target="_blank"><img src="https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280" alt="Material Kit 2" width="100" height="100" /></a></td>
+    <td><a href="https://www.creative-tim.com/product/soft-ui-dashboard" target="_blank"><img src="https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816" alt="Soft UI Dashboard" width="100" height="100" /></a></td>
+    <td><a href="https://www.creative-tim.com/product/soft-ui-react-native" target="_blank"><img src="https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346" alt="Soft UI React Native" width="100" height="100" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://demos.creative-tim.com/material-kit/index.html" target="_blank">Live Preview</a></td>
+    <td><a href="https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html" target="_blank">Live Preview</a></td>
+    <td><a href="https://demos.creative-tim.com/soft-ui-react-native/" target="_blank">Live Preview</a></td>
+  </tr>
+</table>
 
 </div>
-
-
 
 
 
