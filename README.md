@@ -9,29 +9,26 @@ I have done my graduation in B.tech from DA-IICT Gandhinagar.</small>
 
 ## My expertise
 
-<b>Frontend Development</b>
-Crafting intuitive user interfaces using modern frameworks like React, Vue.js, and Angular. I ensure a seamless user experience with responsive design and clean code.
+<b>Frontend Development</b> <br>
+Crafting intuitive user interfaces using modern frameworks like React, Three Js. I ensure a seamless user experience with responsive design and clean code.
 
-<b>Backend Development</b>
+<b>Backend Development</b> <br>
 Building scalable and efficient server-side applications using Node.js and NestJS. My backend expertise includes RESTful API design, database management, and security best practices.
 
-<b>DevOps & Cloud</b>
-Implementing CI/CD pipelines, managing cloud infrastructure on AWS and Azure, and containerizing applications using Docker and Kubernetes
+<b>DevOps & Cloud</b> <br>
+Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and containerizing applications using Docker and Kubernetes
 
-## Our technologies
-
-Our products are built on top of modern frameworks. Having the coded and the designed versions for the same framework, your designers and developers will talk the same language.
-
+## Major technologies I Work With
 <p>
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sass.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/figma.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/icon-laravel.jpg" width="67.5px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://nestjs.com/img/logo_text.svg" alt="nestjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 ## Our products
