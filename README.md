@@ -1,9 +1,10 @@
-Hi there !  
-We are [Creative Tim](https://www.creative-tim.com/)<img src="https://www.creative-tim.com/assets/logo/logo-ct-white-170d794e447f75aec55c6effdfbedced9dd268ceceece152675ff8f9891e3588.svg" />
+<h1 align="center">Hi 👋, I'm Raghav Mattad</h1>
 
-## About Us
+## About Me
 
-Creating your web design from scratch with dedicated designers can be very expensive. Using our solutions you don't have to worry about design. Save time and money by focusing on the business model.
+<small> My name is Raghav Mattad, Currently working as a Fullstack developer in Protocolzone Pvt. Ltd. </small>
+<small> I have an experience of 2 years in crafting web-application touching both backend and frontend side of it. 
+I have done my graduation in B.tech from DA-IICT Gandhinagar ( 2022 ).</small>
 
 ## Our expertise
 
