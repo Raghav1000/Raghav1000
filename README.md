@@ -42,7 +42,8 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 | **Material Kit 2** | **Soft UI Dashboard** | **Soft UI React Native** |
 |--------------------|-----------------------|--------------------------|
 | ![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280) | ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346) |
-| <a href="https://www.creative-tim.com/product/material-kit" style="text-decoration: none; color: #2E8B57;">Code</a> <a href="https://demos.creative-tim.com/material-kit/index.html" style="text-decoration: none; color: #2E8B57;">Preview</a> | <a href="https://www.creative-tim.com/product/soft-ui-dashboard" style="text-decoration: none; color: #2E8B57;">Code</a> <a href="https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html" style="
+| <span style="color: #000; text-decoration: none;">[![Code](https://img.shields.io/badge/Code-4285F4?style=flat&logo=code&logoColor=white)](mailto:your.email@example.com)|[![Code](https://img.shields.io/badge/Code-4285F4?style=flat&logo=code&logoColor=white)](mailto:your.email@example.com)|[![Code](https://img.shields.io/badge/Code-4285F4?style=flat&logo=code&logoColor=white)](mailto:your.email@example.com)|
+
 
 
 
