@@ -8,7 +8,7 @@
 
 ## About Me
 
-<small> My name is Raghav Mattad, Currently working as a Fullstack developer in Protocolzone Pvt. Ltd.
+<small> My name is Raghav Mattad, Currently working as a Fullstack developer.
 I have an experience of 3 years in crafting web application touching both backend and frontend side of it. </small>
 </br>
 I have done my graduation in B.tech from DA-IICT Gandhinagar.</small>
