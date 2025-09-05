@@ -35,6 +35,7 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
 ## Personal Projects
@@ -51,7 +52,7 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
 ## Latest learnings
 Exploring the world of Web 3.0 and decentralized applications (DApps). <br>
 Mastering Kubernetes for efficient container orchestration. <br>
-Building performance-optimized applications with Next.js. <br>
+Building performance-optimized applications with Go lang. <br>
 
 
 ## Contact
