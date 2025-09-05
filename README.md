@@ -29,7 +29,7 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://nestjs.com/img/logo_text.svg" alt="nestjs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="kubernetes" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
