@@ -19,7 +19,7 @@ I have done my graduation in B.tech from DA-IICT Gandhinagar.</small>
 Crafting intuitive user interfaces using modern frameworks like React, Three Js. I ensure a seamless user experience with responsive design and clean code.
 
 <b>Backend Development</b> <br>
-Building scalable and efficient server-side applications using Node.js and NestJS. My backend expertise includes RESTful API design, database management, and security best practices.
+Building scalable and efficient server-side applications using Node.js, NestJS and Go lang. My backend expertise includes RESTful API design, database management, and security best practices.
 
 <b>DevOps & Cloud</b> <br>
 Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and containerizing applications using Docker and Kubernetes
