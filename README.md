@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raghav Mattad</h1>
 
-[![Github](https://img.shields.io/badge/Github-100000?style=flat&logo=github&logoColor=white)](https://github.com/creativetimofficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/creative-tim-1b54778b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Github](https://img.shields.io/badge/Github-100000?style=flat&logo=github&logoColor=white)]([https://github.com/creativetimofficial](https://github.com/Raghav1000))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/creative-tim-1b54778b](https://www.linkedin.com/in/raghav-m-647180328/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=portfolio&logoColor=white)]([https://yourportfolio.com](https://portfolio-raghav1000s-projects.vercel.app/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raghav.code.business@gmail.com)
 
 
 ## About Me
