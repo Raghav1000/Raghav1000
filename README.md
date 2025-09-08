@@ -37,16 +37,6 @@ Implementing CI/CD pipelines, managing cloud infrastructure on AWS and GCP, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
-## Personal Projects
-
-| **Material Kit 2** | **Soft UI Dashboard** | **Soft UI React Native** |
-|--------------------|-----------------------|--------------------------|
-| ![Material Kit 2](https://s3.amazonaws.com/creativetim_bucket/products/38/original/material-kit.jpg?1633601280) | ![Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816) | ![Soft UI React Native](https://s3.amazonaws.com/creativetim_bucket/products/490/original/opt_soft_ui_react_native_thumbnail.jpg?1625576346) |
-| <span style="color: #000; text-decoration: none;">[![Code](https://img.shields.io/badge/Code-4285F4?style=flat&logo=code&logoColor=white)](mailto:your.email@example.com)|[![Code](https://img.shields.io/badge/Code-4285F4?style=flat&logo=code&logoColor=white)](mailto:your.email@example.com)|[![Code](https://img.shields.io/badge/Code-4285F4?style=flat&logo=code&logoColor=white)](mailto:your.email@example.com)|
-
-
-
-
 
 ## Latest learnings
 Exploring the world of Web 3.0 and decentralized applications (DApps). <br>
